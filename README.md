@@ -8,7 +8,6 @@
 ├── skill/                          # Claude Code Skills（自动触发）
 │   ├── chinese-natural-writing/    # 中文自然写作，去 AI 味
 │   ├── universal-teacher/          # 通用技术导师，深度讲解代码/架构/算法
-│   ├── visualization-expert/       # 数据可视化专家，图表选择与设计
 │   └── virtual-think-tank/         # 虚拟智囊团，多专家辩论辅助决策
 │
 └── prompts/                        # Prompt 模板（手动复制使用）
@@ -37,7 +36,6 @@ cp -r skill/<skill-name> ~/.claude/skills/
 |------|------|--------|
 | chinese-natural-writing | Skill | 让 AI 写的中文像人写的，七大原则去机械化 |
 | universal-teacher | Skill | 深度讲解代码/架构/算法，四步结构化教学 |
-| visualization-expert | Skill | 数据关系→图表类型，四大设计原则 |
 | virtual-think-tank | Skill | 4-6 位虚拟专家辩论，揭示决策盲点 |
 | Concept Demystifier | Prompt | 打破学术黑话，大白话讲透复杂概念 |
 | Prompt Engineer | Prompt | 三阶段流程，把模糊需求变成高质量 Prompt |

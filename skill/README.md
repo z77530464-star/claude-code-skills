@@ -14,7 +14,6 @@ Skill 是 Claude Code 的扩展机制，通过 Markdown 文件定义专门的指
 |-------|------|------|
 | [chinese-natural-writing](./chinese-natural-writing/) | 📝 内容写作 | 撰写没有"AI 味"的中文文章，七大原则系统化去机械化 |
 | [universal-teacher](./universal-teacher/) | 🎓 技术学习 | 深入解释代码、架构、算法原理，结构化四步教学法 |
-| [visualization-expert](./visualization-expert/) | 📊 数据可视化 | 图表选择指导与可视化设计，数据关系→图表类型快速匹配 |
 | [virtual-think-tank](./virtual-think-tank/) | 🧠 决策分析 | 模拟多专家辩论会，揭示盲点、权衡和不同视角 |
 
 ## 目录结构
@@ -26,9 +25,6 @@ skill/
 │   ├── README.md                     # Skill 详细介绍
 │   └── SKILL.md                      # Skill 定义文件（可直接使用）
 ├── universal-teacher/
-│   ├── README.md
-│   └── SKILL.md
-├── visualization-expert/
 │   ├── README.md
 │   └── SKILL.md
 └── virtual-think-tank/
